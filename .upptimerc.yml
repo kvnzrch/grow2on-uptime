@@ -4,9 +4,10 @@ repo: grow2on-uptime # The name of this repository
 
 sites:
   - name: Front-End
-    url: https://integrador.grow2on.com/
+    url: https://integrador.grow2on.com
   - name: Back-End
-    url: https://back.grow2on.com:3102/
+    url: https://back.grow2on.com:3102
+    __dangerous__insecure: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
