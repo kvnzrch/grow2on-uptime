@@ -1,7 +1,7 @@
 [
   {
     "name": "Front-End",
-    "url": "https://integrador.grow2on.com/",
+    "url": "https://integrador.grow2on.com",
     "icon": "https://icons.duckduckgo.com/ip3/integrador.grow2on.com.ico",
     "slug": "front-end",
     "status": "up",
@@ -10,31 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 167,
-    "timeDay": 167,
-    "timeWeek": 167,
-    "timeMonth": 167,
-    "timeYear": 167,
+    "time": 236,
+    "timeDay": 236,
+    "timeWeek": 236,
+    "timeMonth": 236,
+    "timeYear": 236,
     "dailyMinutesDown": {}
   },
   {
     "name": "Back-End",
-    "url": "https://back.grow2on.com:3102/",
+    "url": "https://back.grow2on.com:3102",
     "icon": "https://icons.duckduckgo.com/ip3/back.grow2on.com.ico",
     "slug": "back-end",
-    "status": "down",
-    "uptime": "1.70%",
-    "uptimeDay": "1.70%",
-    "uptimeWeek": "1.70%",
-    "uptimeMonth": "1.70%",
-    "uptimeYear": "1.70%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.41%",
+    "uptimeDay": "0.41%",
+    "uptimeWeek": "0.41%",
+    "uptimeMonth": "0.41%",
+    "uptimeYear": "0.41%",
+    "time": 398,
+    "timeDay": 398,
+    "timeWeek": 398,
+    "timeMonth": 398,
+    "timeYear": 398,
     "dailyMinutesDown": {
-      "2024-07-16": 0
+      "2024-07-16": 14
     }
   }
 ]
