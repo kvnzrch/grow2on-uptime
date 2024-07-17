@@ -16,9 +16,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: www.kevinzaracho.com
   baseUrl: /grow2on-uptime
-  logoUrl: https://www.kevinzaracho.com/grow2on-uptime/upptime-icon.svg
-  favicon: https://www.kevinzaracho.com/grow2on-uptime/upptime-icon.svg
-  faviconSvg: https://www.kevinzaracho.com/grow2on-uptime/upptime-icon.svg
+  logoUrl: https://www.kevinzaracho.com/grow2on-uptime/logo-grow2on.svg
+  favicon: https://www.kevinzaracho.com/grow2on-uptime/iso-grow2on.svg
+  faviconSvg: https://www.kevinzaracho.com/grow2on-uptime/iso-grow2on.svg
   name: Grow2on
   introTitle: 
   introMessage: Uptime
