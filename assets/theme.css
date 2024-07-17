@@ -1,3 +1,7 @@
+.logo > img {
+  max-height: 1.8rem;
+}
+
 .logo > div {
   display: none;
 }
