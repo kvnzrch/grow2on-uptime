@@ -1,5 +1,23 @@
 [
   {
+    "name": "Landing",
+    "url": "https://grow2on.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/grow2on.com.ico",
+    "slug": "landing",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 947,
+    "timeDay": 947,
+    "timeWeek": 947,
+    "timeMonth": 947,
+    "timeYear": 947,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Front-End",
     "url": "https://integrador.grow2on.com",
     "icon": "https://icons.duckduckgo.com/ip3/integrador.grow2on.com.ico",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 242,
-    "timeDay": 242,
-    "timeWeek": 242,
-    "timeMonth": 242,
-    "timeYear": 242,
+    "time": 233,
+    "timeDay": 233,
+    "timeWeek": 233,
+    "timeMonth": 233,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 289,
-    "timeDay": 289,
-    "timeWeek": 289,
-    "timeMonth": 289,
-    "timeYear": 289,
+    "time": 279,
+    "timeDay": 279,
+    "timeWeek": 279,
+    "timeMonth": 279,
+    "timeYear": 279,
     "dailyMinutesDown": {}
   }
 ]
