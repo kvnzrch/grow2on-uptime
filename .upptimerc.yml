@@ -19,9 +19,9 @@ status-website:
   logoUrl: https://www.kevinzaracho.com/grow2on-uptime/logo-grow2on.svg
   favicon: https://www.kevinzaracho.com/grow2on-uptime/iso-grow2on.svg
   faviconSvg: https://www.kevinzaracho.com/grow2on-uptime/iso-grow2on.svg
-  name: Grow2on
-  introTitle: 
-  introMessage: Uptime
+  name: Grow2on Uptime
+  introTitle: Uptime
+  introMessage:
   navbar:
     - title: Status
       href: /grow2on-uptime
