@@ -1,3 +1,7 @@
+.logo > div {
+  display: none;
+}
+
 @media (prefers-color-scheme: dark) {
 :root {
   --body-background-color: #001716;
