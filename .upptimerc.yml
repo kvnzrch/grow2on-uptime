@@ -23,7 +23,7 @@ status-website:
       href: /grow2on-uptime
     - title: Código
       href: https://github.com/$OWNER/$REPO
-  themeUrl: https://www.kevinzaracho.com/grow2on-uptime/theme.css
+  themeUrl: https://raw.githubusercontent.com/kenzaflow/grow2on-uptime/master/assets/theme.css
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
