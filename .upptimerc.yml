@@ -23,10 +23,8 @@ status-website:
   introTitle: Uptime
   introMessage:
   navbar:
-    - title: Status
+    - title: Refresh
       href: /grow2on-uptime
-    - title: Code
-      href: https://github.com/$OWNER/$REPO
     - title: Landing
       href: https://grow2on.com/
   themeUrl: https://www.kevinzaracho.com/grow2on-uptime/theme.css
