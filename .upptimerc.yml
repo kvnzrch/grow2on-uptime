@@ -16,8 +16,8 @@ status-website:
   baseUrl: /grow2on-uptime
   logoUrl: https://raw.githubusercontent.com/kenzaflow/grow2on/master/apple-touch-icon.png
   name: Grow2on
-  introTitle: "Uptime de Grow2on"
-  introMessage: Website con el uptime de Grow2on
+  introTitle: "Grow2on"
+  introMessage: Uptime
   navbar:
     - title: Estado
       href: /grow2on-uptime
