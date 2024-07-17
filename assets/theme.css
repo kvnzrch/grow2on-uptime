@@ -28,7 +28,7 @@
 
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
 :root {
   --body-background-color: #f0f7f7;
   --body-text-color: #002626;
