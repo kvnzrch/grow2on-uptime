@@ -1,5 +1,13 @@
 .logo > img {
-  max-height: 1.8rem;
+  max-height: 1.5rem;
+}
+
+nav > div {
+  min-height: 3.75rem
+}
+
+nav > div > ul > li > a {
+    padding: 1rem !important;
 }
 
 .logo > div {
