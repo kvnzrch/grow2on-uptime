@@ -20,7 +20,7 @@ status-website:
   favicon: https://www.kevinzaracho.com/grow2on-uptime/upptime-icon.svg
   faviconSvg: https://www.kevinzaracho.com/grow2on-uptime/upptime-icon.svg
   name: Grow2on
-  introTitle: "Grow2on"
+  introTitle: 
   introMessage: Uptime
   navbar:
     - title: Status
@@ -30,6 +30,9 @@ status-website:
     - title: Landing
       href: https://grow2on.com/
   themeUrl: https://www.kevinzaracho.com/grow2on-uptime/theme.css
+
+  i18n:
+  footer: Powered by [Wualá](https://wuala.net/)
   
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
