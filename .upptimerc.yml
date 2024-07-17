@@ -31,7 +31,7 @@ status-website:
       href: https://grow2on.com/
   themeUrl: https://www.kevinzaracho.com/grow2on-uptime/theme.css
 
-  i18n:
+i18n:
   footer: Powered by [Wualá](https://wuala.net/)
   
 # Upptime also supports notifications, assigning issues, and more
