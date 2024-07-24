@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 589,
     "timeDay": 933,
-    "timeWeek": 589,
+    "timeWeek": 565,
     "timeMonth": 589,
     "timeYear": 589,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 182,
     "timeDay": 104,
-    "timeWeek": 174,
+    "timeWeek": 144,
     "timeMonth": 182,
     "timeYear": 182,
     "dailyMinutesDown": {}
@@ -40,7 +40,7 @@
     "url": "https://back.grow2on.com:3102",
     "icon": "https://icons.duckduckgo.com/ip3/back.grow2on.com.ico",
     "slug": "back-end",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,9 +48,11 @@
     "uptimeYear": "100.00%",
     "time": 252,
     "timeDay": 181,
-    "timeWeek": 257,
+    "timeWeek": 276,
     "timeMonth": 252,
     "timeYear": 252,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-24": 0
+    }
   }
 ]
