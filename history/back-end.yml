@@ -1,7 +1,7 @@
 url: https://back.grow2on.com:3102
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-22T14:49:38.144Z
+status: up
+code: 200
+responseTime: 315
+lastUpdated: 2024-08-22T14:55:53.351Z
 startTime: 2024-07-16T23:23:13.573Z
 generator: Upptime <https://github.com/upptime/upptime>
