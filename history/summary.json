@@ -42,7 +42,7 @@
     "url": "https://back.grow2on.com:3102",
     "icon": "https://icons.duckduckgo.com/ip3/back.grow2on.com.ico",
     "slug": "back-end",
-    "status": "up",
+    "status": "down",
     "uptime": "98.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
@@ -54,6 +54,7 @@
     "timeMonth": 191,
     "timeYear": 275,
     "dailyMinutesDown": {
+      "2024-09-30": 0,
       "2024-09-26": 18,
       "2024-09-09": 27,
       "2024-09-04": 34,
