@@ -25,8 +25,6 @@ status-website:
   navbar:
     - title: Refresh
       href: /grow2on-uptime
-    - title: Landing
-      href: https://grow2on.com/
   themeUrl: https://www.kevinzaracho.com/grow2on-uptime/theme.css
 
 i18n:
