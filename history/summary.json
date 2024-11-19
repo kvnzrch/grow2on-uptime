@@ -4,7 +4,7 @@
     "url": "https://grow2on.com/",
     "icon": "https://icons.duckduckgo.com/ip3/grow2on.com.ico",
     "slug": "landing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 835,
     "timeYear": 1009,
     "dailyMinutesDown": {
+      "2024-11-19": 0,
       "2024-08-05": 38
     }
   },
@@ -43,11 +44,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/back.grow2on.com.ico",
     "slug": "back-end",
     "status": "up",
-    "uptime": "98.45%",
+    "uptime": "98.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.08%",
-    "uptimeYear": "98.45%",
+    "uptimeYear": "98.46%",
     "time": 271,
     "timeDay": 225,
     "timeWeek": 204,
