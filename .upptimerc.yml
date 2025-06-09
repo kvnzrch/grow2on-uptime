@@ -8,10 +8,13 @@ sites:
   - name: Front-End
     url: https://integrador.grow2on.com
   - name: Front-End (dev)
-    url: https://www2.grow2on.com
+    url: https://integrador.dev.grow2on.com
   - name: Back-End
-    url: https://back.grow2on.com:3102
-    __dangerous__insecure: true
+    url: https://backend.grow2on.com
+  - name: Back-End (dev)
+    url: https://backend.dev.grow2on.com
+  - name: Service Manager
+    url: https://service-manager.grow2on.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
