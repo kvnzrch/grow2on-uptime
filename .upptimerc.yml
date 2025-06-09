@@ -19,18 +19,18 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: www.kevinzaracho.com
+  # cname: www.kevinzaracho.com
   baseUrl: /grow2on-uptime
-  logoUrl: https://www.kevinzaracho.com/grow2on-uptime/logo-grow2on.svg
-  favicon: https://www.kevinzaracho.com/grow2on-uptime/iso-grow2on.svg
-  faviconSvg: https://www.kevinzaracho.com/grow2on-uptime/iso-grow2on.svg
+  logoUrl: https://kvnzrch.github.io/grow2on-uptime/logo-grow2on.svg
+  favicon: https://kvnzrch.github.io/grow2on-uptime/iso-grow2on.svg
+  faviconSvg: https://kvnzrch.github.io/grow2on-uptime/iso-grow2on.svg
   name: Grow2on Uptime
   introTitle: Uptime
   introMessage:
   navbar:
     - title: Refresh
       href: /grow2on-uptime
-  themeUrl: https://www.kevinzaracho.com/grow2on-uptime/theme.css
+  themeUrl: https://kvnzrch.github.io/grow2on-uptime/theme.css
 
 i18n:
   footer: Powered by [Wualá](https://wuala.net/)
