@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/grow2on.com.ico",
     "slug": "landing",
     "status": "up",
-    "uptime": "60.67%",
+    "uptime": "60.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.87%",
@@ -13,7 +13,7 @@
     "time": 1114,
     "timeDay": 1477,
     "timeWeek": 1312,
-    "timeMonth": 1303,
+    "timeMonth": 1302,
     "timeYear": 1174,
     "dailyMinutesDown": {
       "2025-10-30": 26,
@@ -219,10 +219,10 @@
     "url": "https://integrador.grow2on.com",
     "icon": "https://icons.duckduckgo.com/ip3/integrador.grow2on.com.ico",
     "slug": "front-end",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 229,
@@ -230,16 +230,18 @@
     "timeWeek": 297,
     "timeMonth": 282,
     "timeYear": 242,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-05": 1
+    }
   },
   {
     "name": "Front-End (dev)",
     "url": "https://integrador.dev.grow2on.com",
     "icon": "https://icons.duckduckgo.com/ip3/integrador.dev.grow2on.com.ico",
     "slug": "front-end-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -248,7 +250,9 @@
     "timeWeek": 276,
     "timeMonth": 266,
     "timeYear": 216,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-05": 0
+    }
   },
   {
     "name": "Back-End",
@@ -256,7 +260,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend.grow2on.com.ico",
     "slug": "back-end",
     "status": "up",
-    "uptime": "76.33%",
+    "uptime": "76.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
